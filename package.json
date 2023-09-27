@@ -1,6 +1,6 @@
 {
   "name": "@padcom/vue3-ce-noshadow",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Version of the Vue.js 3.x `defineCustomElement` that can create custom elements without `shadowRoot`",
   "type": "module",
   "types": "./dist/html-parsed-element.d.ts",
@@ -9,7 +9,7 @@
   ],
   "exports": {
     ".": {
-      "import": "./dist/vue3-ce-noshadow.mjs",
+      "import": "./dist/vue3-ce-noshadow.js",
       "types": "./dist/index.d.ts"
     }
   },
