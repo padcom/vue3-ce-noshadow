@@ -1,0 +1,1 @@
+export { defineCustomElement } from './apiCustomElement'
